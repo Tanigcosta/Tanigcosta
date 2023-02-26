@@ -1,7 +1,10 @@
 ### Hi there, I’m Tânia Costa 👋
 - 📚 A last year student of the MSc. Degree in Data-Driven Marketing with a Major in Marketing Intelligence at Nova Information Management School
-- 👀 Interested in Data Analytics, Business Intelligence, NLP, Machine Learning and AI 
-- 🌱 Currently learning SQL, Python and R
+- 🔭 Scientific Research: "Artificial Intelligence in Marketing: a text mining and topic modelling approach
+-  Previous experiences in Data Analytics, Data Science, Business Intelligence, NLP, Sentiment Analysis, Machine Learning and AI 
+- 🌱 Programming Languages SQL and Python
+- 🌱 Learning: Frontend (HTML and CSS, Javascript and React); Backend (Golang and MySql database); Kubernetes, and AWS.
+- 🌱 Hobbies: Photography, Boxing, Yoga
 - 💞️ Looking to collaborate on projects that positively impact the world
 - 💻 Visit my website at https://taniacosta.com/
 
