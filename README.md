@@ -6,9 +6,9 @@ I help build systems that make work and life lighter.
 Starting in Data Engineering and evolving into AI Solution Design, I help organisations simplify complexity through data, automation, and Generative AI.
 
 My passion is not just technology, but clarity:
-🧬 Turning messy processes into elegant systems,
-💎 Turning data into decisions,
-🤖 Turning effort into leverage.
+- 🧬 Turning messy processes into elegant systems,
+- 💎 Turning data into decisions,
+- 🤖 Turning effort into leverage.
 
 I work where business meets AI. Designing solutions that scale, empower teams, and create real impact.
 
